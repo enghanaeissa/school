@@ -1,0 +1,320 @@
+ *
+ {
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif, Arial;
+ }
+ 
+ .container
+ {
+    background-image: url('https://d1di2lzuh97fh2.cloudfront.net/files/32/32w/450/32ws10.jpg?ph=dd75ea661c');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 650px;
+    margin-top: 0;
+    padding-top:50px;;
+    
+ }
+ 
+ .header
+ {
+    margin-top:1%;
+    margin-left: 10%;
+    margin-right: 8%
+ }
+ 
+
+ .logo
+ {
+    float: left;
+    background-image: url();
+ }
+ .logo h2
+ {
+    color: white;
+    
+ }
+ .navbar
+ {
+    float: right;
+ }
+ .navbar ul
+ {
+
+ }
+ .navnar ul li
+ {
+    list-style: none;
+    display: inline;
+ }
+ .navbar ul li :hover
+ {
+  border-bottom: 2px solid #E66C2C;
+ }
+ ul li
+ {
+   display: inline;
+   padding: 5px 10px;
+ }
+ .navbar ul li a
+ {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin:50px 0;
+ }
+ 
+ .navbar ul .a1
+ {
+  border-bottom: 2px solid #E66C2C;
+  
+ }
+
+.text
+{
+ margin: 12% 8%;
+ font-size: 50px;
+ color: white;
+ font-weight: 600;
+}
+.a2
+{
+ border-bottom: 2px solid #E66C2C;
+ color: #E66C2C;
+ font-size: 60px;
+ text-decoration: none;
+ margin-left: -18%
+}
+.text p
+{
+ display: inline-block;
+}
+.button
+{
+  background:#E66C2C ;
+  color:white;
+  font-size: 15px;
+  border: hidden;
+  margin-left:9%;
+  margin-top: -9%;
+  padding: 22px 20px 20px 20px;
+  text-align: center;
+  width: 200px;
+  cursor: pointer;
+}
+.a3
+{
+ text-decoration: none;
+ color: white; 
+}
+.section1
+{
+ font-size:20px;
+ text-align: center;
+ margin-top: 50px;
+ padding: 20px 10px;
+}
+.title1
+{
+ padding: 20px 10px;
+ color:#E66C2C ;
+ text-align: center;
+}
+.content
+{
+ color:silver;
+ font-size: large;
+ 
+}
+.content h3
+{
+ color:#888;
+ font-size: 20px;
+}
+.col1
+{
+ float:left;
+ margin-left: 15%;
+ margin-top:6%;
+ margin-bottom:30%;
+ text-align: left;
+ 
+}
+.col2
+{
+ float:right;
+ margin-right: 8%;
+ margin-top:6%;
+ margin-bottom: 30%;
+ text-align: left;
+}
+.reading
+{
+ background-image: url('https://d1di2lzuh97fh2.cloudfront.net/files/20/20b/450/20b8tb.jpg?ph=dd75ea661c');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size:cover;
+ margin-top:500px;
+ padding:50px 10px;
+ height:300px;
+ color: white;
+ text-align: left;
+}
+.article
+{
+ float:left;
+ padding:0  0 180px 20px ;
+ margin-top:-10%;
+ margin-left: 60px;
+ font-size: large;
+}
+.button0
+{
+ text-decoration: underline;
+ color: #E66C2C;
+}
+.section2
+{
+ background-color:;
+}
+
+.lists
+{
+margin:8%;
+padding: 10px 80px;
+}
+.c
+{
+ display:inline-block;
+ padding:20px 20px;
+}
+.lists  p
+{
+ color:silver;
+}
+.lists strong{
+ color:#E66C2C;
+}
+.lists span{
+ color:black;
+ font-size: 30px;
+ font-weight: bolder;
+}
+ .pic
+ {
+  display:inline-block;
+  margin-left: 4%;
+ }
+ .head, .last
+ {
+  text-align: center;
+  margin: 5% 2%;
+ }
+ .t1, .last h3
+ {
+  color:#E66C2C;
+  padding: 25px;
+ }
+ .t2, .last h1
+ {
+  font-size: 60px;
+ }
+ .item1 a
+ {
+  text-decoration: none;
+  color: black;
+  font-size:20px;
+  font-weight:bold;
+ }
+  .item1 a :hover
+  {
+   border-bottom: 2px solid black; 
+  }
+  .date, .detales
+  {
+   color:silver;
+  }
+  .button2, .button3
+  {
+   text-align: center;
+   margin: 50px 10px;
+   padding: 20px 30px;
+   border: 2px solid #E66C2C;
+   width: 200px;
+   margin-left: 40%;
+   cursor: pointer;
+   color:black;
+   text-decoration: none; 
+  }
+  .button3
+  {
+   text-align: center;
+   margin: 20px 10px;
+   padding: 20px 30px;
+   border: 2px solid #E66C2C;
+   width: 200px;
+   cursor: pointer;
+   color:black;
+   text-decoration: none;
+   float:left;
+   margin-left:28%;
+  }
+  .button4
+  {
+   text-align: center;
+   margin: 20px 10px;
+   padding: 20px 30px;
+   border: hidden ;
+   width: 200px;
+   cursor: pointer;
+   color:white;
+   text-decoration: none;
+   background:#E66C2C;
+   float:right;
+   margin-right:28%;
+  }
+  .line
+  {
+   border-bottom: 1px solid silver;
+   margin:5% 5%;
+  }
+  .section5
+  {
+   display: block;
+   margin: 0;
+  }
+  .copyright
+  {
+   color:#646d7e;
+   font-size: 15px;
+   background:silver;
+   text-align: center;
+   margin-top:25%;
+   padding: 65px;
+   margin-bottom: 0%
+  }
+  .copyright a
+  {
+   color:#646d7e;
+  }
+  .footer
+  {
+   
+   background:#333;
+   padding: 30px 100px;
+  }
+  .info1
+  {
+   float: left;
+  }
+  .info2
+  {
+   float: right;
+  }
+  .a5
+  {
+   text-decoration: none;
+   color: white;
+  }
+ 
